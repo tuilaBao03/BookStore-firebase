@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+      <loc>https://culture-depot.web.app/</loc>
+      <lastmod>2023-12-30</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1.00</priority>
+   </url>
+
+   <url>
+      <loc>https://culture-depot.web.app/book.html</loc>
+      <lastmod>2023-12-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.80</priority>
+   </url>
+
+   <url>
+      <loc>https://culture-depot.web.app/book_detail.html</loc>
+      <lastmod>2023-12-30</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.64</priority>
+   </url>
+
+   <url>
+      <loc>https://culture-depot.web.app/blog.html</loc>
+      <lastmod>2023-12-30</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.80</priority>
+   </url>
+
+   <url>
+      <loc>https://culture-depot.web.app/blog_detail.html</loc>
+      <lastmod>2023-12-30</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.64</priority>
+   </url>
+
+   <url>
+      <loc>https://culture-depot.web.app/event.html</loc>
+      <lastmod>2023-12-30</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.80</priority>
+   </url>
+
+   <url>
+      <loc>https://culture-depot.web.app/event_detail.html</loc>
+      <lastmod>2023-12-30</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.64</priority>
+   </url>
+
+   <url>
+      <loc>https://culture-depot.web.app/aboutus.html</loc>
+      <lastmod>2023-12-30</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.64</priority>
+   </url>
+
+   <url>
+      <loc>https://culture-depot.web.app/contactus.html</loc>
+      <lastmod>2023-12-30</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.64</priority>
+   </url>
+
+   <url>
+      <loc>https://culture-depot.web.app/login.html</loc>
+      <lastmod>2023-12-30</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.80</priority>
+   </url>
+
+   <url>
+      <loc>https://culture-depot.web.app/signup.html</loc>
+      <lastmod>2023-12-30</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.80</priority>
+   </url>
+
+</urlset>

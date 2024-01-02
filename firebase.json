@@ -1,0 +1,9 @@
+{
+  "hosting": {
+    "site": "culture-depot",
+    "public": "public"
+  },
+  "database": {
+    "rules": "database.module.json"
+  }
+}
